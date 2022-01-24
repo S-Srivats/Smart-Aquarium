@@ -1,2 +1,2 @@
 # Smart-Aquarium
-This is the source code of Smart aquarium project using Raspberry Pi
+This is the source code of Smart aquarium project done using Raspberry Pi
